@@ -1,0 +1,10 @@
+Django==5.1.*
+djangorestframework==3.15.*
+pyseto==1.8.*
+drf-spectacular==0.27.*
+python-decouple==3.8
+pytest==8.*
+pytest-django==4.*
+model_bakery==1.*
+freezegun
+pytest-cov
